@@ -1,2 +1,1 @@
-# my_website
-Static Website Hosting AWS
+# openshift-terraform
